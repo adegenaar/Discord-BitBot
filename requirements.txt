@@ -1,0 +1,4 @@
+wheel
+pytest
+black
+discord.py>=1.4.0

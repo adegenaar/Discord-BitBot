@@ -3,6 +3,9 @@
         "."
     ],
     "python.testing.unittestEnabled": false,
-    "python.testing.nosetestsEnabled": false,
-    "python.testing.pytestEnabled": true
+    "python.testing.nosetestsEnabled": true,
+    "python.testing.pytestEnabled": true,
+    "cSpell.words": [
+        "unban"
+    ]
 }
